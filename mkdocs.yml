@@ -1,8 +1,5 @@
 site_name: Teste
 
-plugins:
-   - swagger-ui-tag
-
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
